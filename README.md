@@ -1,14 +1,14 @@
-# Demo repo for the TC3006 course
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the *implementation portfolio* deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors. 
+# Repositorio para entregas de Adrián Faz
+En este repositorio se encuentran las entregas de los diferentes módulos de la Concentración TC3006B.
 
-## Structure of this repository
-The root folder of this repository contains the following files and folders: 
+## Estructura
+El folder contiene las siguientes carpetas:
 
-* **Files**
-  * README.md: This file  
-* **Folders**
-  * final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  * retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
+* **Archivos**
+  * README.md: Esta carpeta 
+* **Carpetas**
+   * final: Carpeta con la información de los entregables finales, cuando ya están listos para ser evaluados.
+   * retro: Carpeta con los archivos e información cuando están en etapa de borrador. Están listos para obtener retroalimentación por los profesores.
 
 ## Files for revision
 Following is a list of the files that must be checked for grading each subcompetency: 
