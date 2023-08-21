@@ -14,7 +14,7 @@ El folder contiene las siguientes carpetas:
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * *Modulo 2: Machine Learning*
-		* **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.** Please review file **retro/M2_ML/Limpieza/limpieza.ipybn** o en: 
+		* **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.** Please review file **[retro/M2_ML/Act1]* o en: 
 		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/retro/M4_Reto/Limpieza/limpieza.ipynb
 
 ## Requested changes and replies
