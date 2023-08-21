@@ -10,28 +10,14 @@ El folder contiene las siguientes carpetas:
    * final: Carpeta con la información de los entregables finales, cuando ya están listos para ser evaluados.
    * retro: Carpeta con los archivos e información cuando están en etapa de borrador. Están listos para obtener retroalimentación por los profesores.
 
-## Files for revision
-Following is a list of the files that must be checked for grading each subcompetency: 
+## Archivos para revisión
+A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
-
+* *Modulo 2: Machine Learning*
+		* **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.** Please review file **retro/M2_ML/Limpieza/limpieza.ipybn** o en: 
+		https://github.com/imjdl03/Reto-3006C-equipo5/blob/main/retro/M4_Reto/Limpieza/limpieza.ipynb
 
 ## Requested changes and replies
 Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
-
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
-		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
-		
 
 See you!
