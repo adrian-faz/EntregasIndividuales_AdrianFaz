@@ -5,5 +5,14 @@ Esta carpeta contiene los archivos solicitados para completar la actividad, est�
 * **Actividad_Framework.ipynb**: Notebook donde se encuentra el código realizado y la implementación del modelo, además de las explicaciones pertinentes.
 * **iris.csv**: Archivo donde se encuentran los datos del set de datos utilizado en la actividad en formato csv.
 
-## Problema 
+## Set de Datos 
 
+El set de datos utilizado se llama "iris.csv", y este incluye 150 muestras de flores, las cuales están clasificadas en 3 clases distintas. Cada muestra tiene las siguientes características:
+
+* sepal_length
+* sepal_width
+* petal_length
+* petal_width
+* species
+
+En donde, buscamos predecir la especie a la que pertenece cada muestra en base a las otras características que tenemos como "datos de entrada".
