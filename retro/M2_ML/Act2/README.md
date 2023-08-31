@@ -20,3 +20,5 @@ En donde, buscamos predecir la especie a la que pertenece cada muestra en base a
 El set de datos se puede encontrar en: https://github.com/adrian-faz/EntregasIndividuales_AdrianFaz/tree/main/retro/M2_ML/Act2/iris.csv
 
 ## Problema
+
+El problema presentado en este caso es de **clasificación**, pues se busca generar un modelo que sea capaz de clasificar en una de las 3 especies existentes en los datos, basandose en los otros datos, como lo son las longitudes y anchuras del sépalo y del pétalo. 
