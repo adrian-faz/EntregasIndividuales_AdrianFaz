@@ -16,3 +16,7 @@ El set de datos utilizado se llama "iris.csv", y este incluye 150 muestras de fl
 * species
 
 En donde, buscamos predecir la especie a la que pertenece cada muestra en base a las otras características que tenemos como "datos de entrada".
+
+El set de datos se puede encontrar en: https://github.com/adrian-faz/EntregasIndividuales_AdrianFaz/tree/main/retro/M2_ML/Act2/iris.csv
+
+## Problema
