@@ -24,3 +24,8 @@ El set de datos se puede encontrar en: https://github.com/adrian-faz/EntregasInd
 El problema presentado en este caso es de **clasificación**, pues se busca generar un modelo que sea capaz de clasificar en una de las 3 especies existentes en los datos, basandose en los otros datos, como lo son las longitudes y anchuras del sépalo y del pétalo. 
 
 El modelo a utilizar fue el **Decision Tree Classifier**, el cual es un algoritmo de aprendizaje supervisado que descompone un problema complejo en subproblemas más simples, tomando decisiones basadas en las características de los datos. Este árbol se compone de nodos que representan condiciones, y ramas, que serían las posibles respuestas. Lo que se busca  es llegar a una "hoja" que contiene la clase a la que pertenece.
+
+## Archivos a revisar para evaluar subcompetencias
+
+Para evaluar las subcompetencias, se debe de revisar el siguiente archivo:
+* *Desempeño_Modelo.ipynb*
